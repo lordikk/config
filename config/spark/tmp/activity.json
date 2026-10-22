@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "1w3r5y7i666",
+      "uniqueId": "b66ec5e4-9f97-4050-a736-f5644b7832ce"
+    },
+    "time": 1792687345696,
+    "type": "Profiler",
+    "data": {
+      "type": "file",
+      "value": "C:\\Users\\1w3r5y7i666\\AppData\\Roaming\\ElyPrismLauncher\\instances\\1.21.1\\minecraft\\config\\spark\\profile-2026-10-22_19.42.25.sparkprofile"
+    }
+  }
+]
