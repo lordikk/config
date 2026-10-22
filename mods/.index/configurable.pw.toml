@@ -1,0 +1,18 @@
+filename = 'configurable-3.5.3+1.21.1-neoforge.jar'
+name = 'Configurable'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.2', '1.21.3', '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Configurable Neoforge 3.5.3 for 1.21.1'
+
+[download]
+hash = '694e68c671dacf418c8ed7ab543f62c80fdd0f95'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9191007
+project-id = 1092048

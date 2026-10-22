@@ -1,0 +1,25 @@
+filename = 'aquaculturedelight-1.2.0-neoforge-1.21.1.jar'
+name = "Aquaculture Delight (A Farmer's Delight Add-on)"
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'aquaculturedelight-1.2.0-neoforge-1.21.1.jar'
+
+[download]
+hash = '111393c07a98f29cab1de0d91965cc1bc6d9d73f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6179576
+project-id = 961988
+
+[[x-prismlauncher-dependencies]]
+addonId = '60028'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '398521'
+type = 'REQUIRED'

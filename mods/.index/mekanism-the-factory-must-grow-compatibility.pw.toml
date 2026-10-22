@@ -1,0 +1,41 @@
+filename = 'mekanism_tfmg_compat-0.4-1.21.1.jar'
+name = 'Mekanism The Factory Must Grow Compatibility'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'mekanism_tfmg_compat-0.4-1.21.1.jar'
+
+[download]
+hash = 'c9d5b74e44335f32014feac0b42eed35df1f184a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8334108
+project-id = 1087826
+
+[[x-prismlauncher-dependencies]]
+addonId = '693815'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '328085'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '268560'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '268566'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '238222'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '268567'
+type = 'OPTIONAL'

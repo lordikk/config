@@ -1,0 +1,21 @@
+filename = 'catalyst-0.17.0.jar'
+name = 'Create: Catalyst'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'catalyst-0.17.0.jar'
+
+[download]
+hash = 'f394dbf31c8f79d8cf0d4c1ab08c09b9d5ac671b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8544138
+project-id = 1620723
+
+[[x-prismlauncher-dependencies]]
+addonId = '328085'
+type = 'REQUIRED'
