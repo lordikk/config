@@ -1,0 +1,14 @@
+[19:12:14] [INIT] KubeJS 2101.7.2-build.377; MC 2101 NeoForge
+[19:12:14] [INIT] Loaded plugins:
+[19:12:14] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSPlugin
+[19:12:14] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSClientPlugin
+[19:12:14] [INIT] - dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration
+[19:12:14] [INIT] - io.github.mortuusars.exposure.neoforge.integration.kubejs.ExposureKubeJSPlugin
+[19:12:14] [INIT] - net.davio.aquaticambitions.compat.KubeJS.CAAKubeJSPlugin
+[19:12:14] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[19:12:14] [INFO] server_scripts:main.js#2: Hello, World! (Loaded server example script)
+[19:12:14] [INFO] Loaded script server_scripts:main.js in 0.001 s
+[19:12:14] [INFO] Loaded 1/1 KubeJS server scripts in 0.018 s with 0 errors and 0 warnings
+[19:12:14] [WARN] Due to the way Minecraft resource loading works, KubeJS' server.log may not contain everything that happened in your server scripts on initial world creation.
+[19:12:14] [WARN] You can still see the full log (including past reloads) in your latest.log file.
+[19:13:36] [INFO] Server resource reload complete!
